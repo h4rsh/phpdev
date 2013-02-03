@@ -32,6 +32,7 @@ if(isset($_POST['submit']))
 				Name<input placeholder="Name" type="text"name="name"><br> 
 				password<input type="password"name="password"><br>
             	<button type="submit"name="submit">submit</button> 
+            	<button type="submit"name="submit">submit</button> 
 			</form>
 		</div>
     </body>		
